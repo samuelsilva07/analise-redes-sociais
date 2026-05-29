@@ -8,9 +8,9 @@ O dataset, extraído do **Kaggle**, apresenta informações dos posts, como:
 - Insights gerais (likes, comentários, visualizações, etc)
 
 
-## 🎯 Objetivo da Análise
+## 🎯 Objetivo da análise
 
-Nesta análise, meu foco foi entender as **características gerais dos posts no dataset**, identificando as características de uma amostra do conteúdo produzido para redes sociais no ano de 2025.
+Neste processo, meu foco foi entender as **características gerais dos posts no dataset**, identificando as características de uma amostra do conteúdo produzido para redes sociais no ano de 2025.
 
 Para identificar esses fatores, obtive as seguintes métrcas sobre os dados:
 
